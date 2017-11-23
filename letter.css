@@ -1,0 +1,40 @@
+.letter {
+  border: 5px solid black;
+  padding: 10px;
+  display: inline-block;
+  margin: 5px;
+  vertical-align: top;
+  opacity:0;
+
+}
+
+/*.active {
+  animation-name: drop;
+  animation-duration: 2s;
+  animation-timing-function: linear;
+}
+
+
+/* Chrome, Safari, Opera */
+
+/*@-webkit-keyframes drop {
+  from {
+    margin-top: 0px;
+  }
+  to {
+    margin-top: 200px;
+  }
+}
+*/
+
+/* Standard syntax */
+
+/*@keyframes drop {
+  from {
+    margin-top: 0px;
+  }
+  to {
+    margin-top: 200px;
+  }
+}
+*/
